@@ -15,3 +15,8 @@
 ### ver2 - position synchronization
 ![image](https://github.com/CAU-Metaverse/PrototypeBuild/assets/55550753/cd37c66e-d1d3-43f2-9055-412ed85fcdd7)
 
+### ver3 - implementation of basic functions
+![image](https://github.com/CAU-Metaverse/PrototypeBuild/assets/55550753/007d211f-eaef-4cb8-bdeb-c540c464e31b)
+
+### ver4 - completion
+![image](https://github.com/CAU-Metaverse/PrototypeBuild/assets/55550753/10b0b30d-af80-4fc1-a745-d0a120ef6394)
