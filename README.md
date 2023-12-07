@@ -1,4 +1,7 @@
 # TEAM Meta-CAU's Prototype  
+
+Unity WebGL 빌드의 버전 및 발전과정을 기록한 레포지토리입니다.
+
 ## How to run  
 1. install python  
    - We use 3.10.7, but any python version over 3.0 will be ok.  
